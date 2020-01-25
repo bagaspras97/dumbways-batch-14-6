@@ -11,4 +11,4 @@ for (i=0; i<wktLahir; i++){
 }
  
 }
-console.log(jmlBurung); 
+console.log('jumlah burung lovebird seletah 441 hari adalah ' + jmlBurung); 
