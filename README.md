@@ -1,6 +1,6 @@
 # dumbways-batch-14-6
 
--bahasa pemrograman yang diguanakan untuk nomor 1 - 3 adalah javascript sementara untuk nomor 4 menggunakan sql
+-bahasa pemrograman yang digunakan untuk nomor 1 - 3 adalah javascript sementara untuk nomor 4 menggunakan sql
 -software yang dipakai adalah vs code untuk nomor 1-3 dan xampp untuk nomor 4
 
 1.untuk menjalankan nomor 1, cukup copy-paste kan isi dari file 1.js ke https://es6console.com/ lalu bisa diklik run pada kiri atas
